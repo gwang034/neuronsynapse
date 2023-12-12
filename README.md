@@ -1,4 +1,4 @@
-# neuronsynapse
+# neuronsynapse :brain:📈:
 
 **Grace Wang** and **Didi Zhou**
 
